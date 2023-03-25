@@ -1,4 +1,4 @@
-import { DataApiService } from './../../services/http/data-api.service';
+import { DataApiService } from '../../services/http/data-api.service';
 import { Component, OnInit, HostListener } from '@angular/core';
 
 @Component({
