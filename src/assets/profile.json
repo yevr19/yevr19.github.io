@@ -1,0 +1,31 @@
+{
+  "email": "e.radchenko.v@gmail.com",
+  "location": "Kiev, Ukraine",
+  "name": "Eugene Radchenko",
+  "phone": "+380(99) 408 30 85",
+  "avatar": "assets/media/images/eugene-radchenko.jpg",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Software Engineering",
+      "meta": "Kiev National University of Trade and Economics, August 2021 – June 2025"
+    }
+  ],
+  "about": "Hi, my name is Eugene and my passion is programming. My journey began at the age of 14, when I became interested in IT.\n At that time, I thought about my future and firmly decided to associate my life with software development.\n At the beginning, I tried to learn the basics of software development on courses, but fortunately, I quickly realized that only self-discipline and hard work can help to achieve a result.\n Overtime, I was starting to help many people to get into Java development, improving my skills along the way. I have read many books, articles, and technical references.\n At the same time, I was doing various kinds of test tasks, committing to an Open Source project, and also met an amazing person who gave me the opportunity to create a potentially commercial product.\n If you've read this to the end, I'd like to add that my passion is to become a good engineer,constantly work and interact with people and be a good person :)",
+  "socials": [
+    {
+      "name": "e.radchenko.v@gmail.com",
+      "link": "mailto:e.radchenko.v@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/JenjaRad",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/e-radchenko/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}

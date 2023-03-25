@@ -1,0 +1,48 @@
+{
+  "work": [
+    {
+      "date": "September 2021 - March 2022",
+      "title": "Software Developer & Co-Founder at Guman",
+      "description": "• Participated in requirements gathering and design development meetings.\n• Wrote, modified and maintained software documentation and specifications.\n• Participated in performance analysis, design and code development.\n• Analyzed and designed algorithms for calculating various survey-related metrics.\n• Developed and designed E-R diagrams, UML and resulting graph architecture for the client side.\n• Refactoring and bug fixing.\n• Developed an implementation of multi-modular application architecture.\n• Developed and design code base of a centralized authentication and authorization server.\n• Communicating and writing SWOT analyzes for technical decision making.\n• Developed and analysis of custom formulas for calculating various resulting client data.",
+      "stack": [
+        "Java 15",
+        "Spring",
+        "Hibernate",
+        "PostgreSQL",
+        "Flyway",
+        "Redis",
+        "Git",
+        "Maven",
+        "Logback",
+        "OpenApi",
+        "Jira",
+        "Postman",
+        "Docker",
+        "GitHub Actions",
+        "Heroku"
+      ]
+    },
+    {
+      "date": "August 2022 - Present",
+      "title": "Full Stack Developer at ISD",
+      "description": "• Participated in requirements gathering and design development meetings.\n• Wrote, modified and maintained software documentation and specifications.\n• Participated in performance analysis, design and code development.\n• Analyzed customer requirements and implemented them in accordance with the reference.\n• Refactoring and bug fixing.\n• Developed various of enhancements and deficiencies.\n• Communicating with business analysts and testers for technical decision making.",
+      "stack": [
+        "Java 11",
+        "Spring",
+        "Hibernate",
+        "Oracle",
+        "Quartz",
+        "Hazelcast",
+        "Maven",
+        "Git",
+        "SVN",
+        "TeamCity",
+        "Oracle WebLogic",
+        "TypeScript",
+        "Angular",
+        "HTML",
+        "Postman"
+      ]
+    }
+  ]
+}
