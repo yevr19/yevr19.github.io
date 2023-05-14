@@ -1,7 +1,12 @@
 {
   "work": [
     {
-      "date": "September 2021 - March 2022",
+      "date" : "August 2020 - August 2021",
+      "title" : "Java Mentor",
+      "description" : "As a Java mentor, I had the opportunity to assist individuals in achieving their career goals by providing them with the necessary knowledge and guidance to excel in their field. I worked closely with each mentee to create customized learning plans, which not only helped them improve their Java programming skills but also provided them with valuable insights into the industry. Through my mentorship, I was able to help numerous individuals secure their dream jobs while gaining a wealth of knowledge and experience alongside them."
+    },
+    {
+      "date": "August 2021 - March 2022",
       "title": "Software Developer & Co-Founder at Guman",
       "description": "• Participated in requirements gathering and design development meetings.\n• Wrote, modified and maintained software documentation and specifications.\n• Participated in performance analysis, design and code development.\n• Analyzed and designed algorithms for calculating various survey-related metrics.\n• Developed and designed E-R diagrams, UML and resulting graph architecture for the client side.\n• Refactoring and bug fixing.\n• Developed an implementation of multi-modular application architecture.\n• Developed and design code base of a centralized authentication and authorization server.\n• Communicating and writing SWOT analyzes for technical decision making.\n• Developed and analysis of custom formulas for calculating various resulting client data.",
       "stack": [
